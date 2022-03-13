@@ -208,7 +208,7 @@
         </div>
 
         <footer class="mt-5 mb-4">
-            {{ $t("Powered by") }} <a target="_blank" href="https://github.com/louislam/uptime-kuma">{{ $t("Uptime Kuma" ) }}</a>
+            {{ $t("Powered by") }} <a target="_blank" href="https://www.fw1028.top">{{ $t("FangWei" ) }}</a>
         </footer>
     </div>
 </template>
